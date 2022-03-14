@@ -1,0 +1,386 @@
+1646888625856	geckodriver	INFO	Listening on 127.0.0.1:18888
+1646888628890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "18889" "-no-remote" "-profile" "C:\\Users\\ZHUANG~1\\AppData\\Local\\Temp\\rust_mozprofilekGdfXy"
+1646888629760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofilekGdfXy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:18889/devtools/browser/a14bc5b5-2b45-4110-9ec0-74c5caac073d
+1646888632972	Marionette	INFO	Listening on port 18896
+1646888633082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery17207598371323953154_1646888646717&_=1646888646854, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery17207598371323953154_1646888646718&_=1646888646857, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1646901516146	Marionette	INFO	Stopped listening on port 18896
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+-42a4-b17c-8acbf566adb0
+1646888770685	Marionette	INFO	Listening on port 19090
+1646888770872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery17205444781081159931_1646888785775&_=1646888785868, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery17205444781081159931_1646888785776&_=1646888785870, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript error: https://api.qunar.com/ips.jcp?callback=jQuery17209419859259546556_1646888789060&_=1646888789062, line 1: TypeError: jQuery17209419859259546556_1646888789060 is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/cityHotelRec@063a4afa1809a87da1cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/stationHotelRec@86e5b12c940cbebadae5.js, line 1: unreachable code after return statement
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/cityHotelRec@063a4afa1809a87da1cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/stationHotelRec@86e5b12c940cbebadae5.js, line 1: unreachable code after return statement
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/cityHotelRec@063a4afa1809a87da1cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/stationHotelRec@86e5b12c940cbebadae5.js, line 1: unreachable code after return statement
+1646889112610	Marionette	INFO	Stopped listening on port 19090
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+19313" "-no-remote" "-profile" "C:\\Users\\ZHUANG~1\\AppData\\Local\\Temp\\rust_mozprofile4NmxUE"
+1646888890605	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofile4NmxUE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:19313/devtools/browser/20d08f79-7171-49b9-86e2-7b13ba76ee78
+1646888893089	Marionette	INFO	Listening on port 19320
+1646888893609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery1720616495298400384_1646888907662&_=1646888907747, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery1720616495298400384_1646888907663&_=1646888907748, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/cityHotelRec@063a4afa1809a87da1cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/stationHotelRec@86e5b12c940cbebadae5.js, line 1: unreachable code after return statement
+1646889063580	Marionette	INFO	Stopped listening on port 19320
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+tte	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofileDnF1vZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:19493/devtools/browser/7ad59463-0aab-4246-996b-e9a3fb917bc3
+1646888960922	Marionette	INFO	Listening on port 19500
+1646888961250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery172028081899700124313_1646888975847&_=1646888975941, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery172028081899700124313_1646888975848&_=1646888975943, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/cityHotelRec@063a4afa1809a87da1cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/stationHotelRec@86e5b12c940cbebadae5.js, line 1: unreachable code after return statement
+1646889060640	Marionette	INFO	Stopped listening on port 19500
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, mess1646889061990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofileliPMpy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:19709/devtools/browser/6f9cbd2e-30b2-47a1-9b4b-f1f9efe7c533
+1646889065054	Marionette	INFO	Listening on port 19718
+1646889065575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery17209172056578997844_1646889068101&_=1646889068182, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery17209172056578997844_1646889068102&_=1646889068184, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/cityHotelRec@063a4afa1809a87da1cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/stationHotelRec@86e5b12c940cbebadae5.js, line 1: unreachable code after return statement
+1646889111308	Marionette	INFO	Stopped listening on port 19718
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646889659608	geckodriver	INFO	Listening on 127.0.0.1:20303
+1646889662674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "20304" "-no-remote" "-profile" "C:\\Users\\ZHUANG~1\\AppData\\Local\\Temp\\rust_mozprofile3RBwlG"
+1646889663601	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofile3RBwlG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:20304/devtools/browser/f8a6603f-6ab3-478e-b5a2-bddb42a9ae02
+1646889666224	Marionette	INFO	Listening on port 20311
+1646889666367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery1720905589764339838_1646889679123&_=1646889679227, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery1720905589764339838_1646889679124&_=1646889679228, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/cityHotelRec@063a4afa1809a87da1cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/stationHotelRec@86e5b12c940cbebadae5.js, line 1: unreachable code after return statement
+1646889896385	Marionette	INFO	Stopped listening on port 20311
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+tte	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofilerz5CUW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:20437/devtools/browser/393a270b-0d04-4081-9cdc-50a4952207a9
+1646889704806	Marionette	INFO	Listening on port 20445
+1646889705191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery1720774113936466738_1646889707106&_=1646889707239, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery1720774113936466738_1646889707107&_=1646889707240, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+1646889895371	Marionette	INFO	Stopped listening on port 20445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+tte	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofileQ2SfGU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:20578/devtools/browser/ff3371c8-589b-40e4-8266-29382d9f1d82
+1646889741460	Marionette	INFO	Listening on port 20586
+1646889741618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery17209176809956122156_1646889744057&_=1646889744189, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery17209176809956122156_1646889744058&_=1646889744191, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+1646889894623	Marionette	INFO	Stopped listening on port 20586
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "20723" "-no-remote" "-profile" "C:\\Users\\ZHUANG~1\\AppData\\Local\\Temp\\rust_mozprofile2pTyes"
+1646889777322	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofile2pTyes\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:20723/devtools/browser/0aa689dd-570c-410d-959b-49bb2ef89fed
+1646889779991	Marionette	INFO	Listening on port 20729
+1646889780057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery172045683219505586714_1646889788105&_=1646889788193, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery172045683219505586714_1646889788106&_=1646889788195, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+1646901199499	Marionette	INFO	Stopped listening on port 20729
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+28822" "-no-remote" "-profile" "C:\\Users\\ZHUANG~1\\AppData\\Local\\Temp\\rust_mozprofilexzDbsq"
+1646901167387	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofilexzDbsq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:28822/devtools/browser/444abc3f-5b81-4f98-8a48-d124ade52a32
+1646901170337	Marionette	INFO	Listening on port 28830
+1646901170499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery172022718379478462025_1646901180928&_=1646901181022, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery172022718379478462025_1646901180929&_=1646901181023, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/cityHotelRec@063a4afa1809a87da1cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/stationHotelRec@86e5b12c940cbebadae5.js, line 1: unreachable code after return statement
+1646901192051	geckodriver	INFO	Listening on 127.0.0.1:28977
+1646901195112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "28978" "-no-remote" "-profile" "C:\\Users\\ZHUANG~1\\AppData\\Local\\Temp\\rust_mozprofileJGL9I0"
+1646901195966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofileJGL9I0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:28978/devtools/browser/81be4212-a99b-4a27-92f8-98243f030e14
+1646901198870	Marionette	INFO	Listening on port 28991
+1646901199521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646901252646	geckodriver	INFO	Listening on 127.0.0.1:29119
+1646901255699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29120" "-no-remote" "-profile" "C:\\Users\\ZHUANG~1\\AppData\\Local\\Temp\\rust_mozprofilewUTx9f"
+1646901256625	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofilewUTx9f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29120/devtools/browser/8a836e65-1e2e-49cf-bc06-eed8c976d0a5
+1646901259658	Marionette	INFO	Listening on port 29128
+1646901259882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery172038306179415844643_1646901265828&_=1646901265911, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery172038306179415844643_1646901265829&_=1646901265912, line 1: SyntaxError: unexpected token: ':'
+1646901350203	Marionette	INFO	Stopped listening on port 29121646901351558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+tte	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofileelLHT6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29323/devtools/browser/0bca4400-995a-4859-95e2-e06c8bd63399
+1646901354926	Marionette	INFO	Listening on port 29332
+1646901355231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery172015647356127114775_1646901365230&_=1646901365316, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery172015647356127114775_1646901365229&_=1646901365315, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/cityHotelRec@063a4afa1809a87da1cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/stationHotelRec@86e5b12c940cbebadae5.js, line 1: unreachable code after return statement
+1646901504862	Marionette	INFO	Stopped listening on port 29332
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+tte	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofileiusLNu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29469/devtools/browser/42444e55-8ab5-47b7-9e36-5637aeae8080
+1646901380047	Marionette	INFO	Listening on port 29476
+1646901380528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery17206356407106361875_1646901392208&_=1646901392290, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery17206356407106361875_1646901392209&_=1646901392292, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+1646901504317	Marionette	INFO	Stopped listening on port 29476
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+tte	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofileRLyrah\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29616/devtools/browser/1a1dd525-ebe8-4a8b-9427-0dc0e5d628e4
+1646901407361	Marionette	INFO	Listening on port 29628
+1646901407886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery172010568447741035758_1646901422885&_=1646901422990, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery172010568447741035758_1646901422886&_=1646901422991, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+1646901503877	Marionette	INFO	Stopped listening on port 29628
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+tte	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofileE2Z3E0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29792/devtools/browser/f9b39a8e-f2b5-4035-923b-b7119bd78ea9
+1646901437527	Marionette	INFO	Listening on port 29799
+1646901437727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery17202109273667412047_1646901442781&_=1646901442878, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery17202109273667412047_1646901442782&_=1646901442878, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+1646901502995	Marionette	INFO	Stopped listening on port 29799
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646901530599	geckodriver	INFO	Listening on 127.0.0.1:30033
+1646901533631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "30034" "-no-remote" "-profile" "C:\\Users\\ZHUANG~1\\AppData\\Local\\Temp\\rust_mozprofilex5o6XU"
+1646901534700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofilex5o6XU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:30034/devtools/browser/8b287327-1573-4308-bbb6-836ba5ffd52f
+1646901537385	Marionette	INFO	Listening on port 30040
+1646901537841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery17207490760822590797_1646901550269&_=1646901550356, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery17207490760822590797_1646901550268&_=1646901550354, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/cityHotelRec@063a4afa1809a87da1cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://q.qunarzz.com/hotel_fekit/prd/scripts/stationHotelRec@86e5b12c940cbebadae5.js, line 1: unreachable code after return statement
+1646901570282	Marionette	INFO	Stopped listening on port 30040
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646901571571	geckodriver	INFO	Listening on 127.0.0.1:30224
+1646901574614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "30225" "-no-remote" "-profile" "C:\\Users\\ZHUANG~1\\AppData\\Local\\Temp\\rust_mozprofileBSWjAj"
+1646901575410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofileBSWjAj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:30225/devtools/browser/50992eee-1179-4859-a20d-896a2b9ebcd7
+1646901578025	Marionette	INFO	Listening on port 30233
+1646901578300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery17207525256068513726_1646901590068&_=1646901590152, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery17207525256068513726_1646901590069&_=1646901590153, line 1: SyntaxError: unexpected token: ':'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+1646901686670	Marionette	INFO	Stopped listening on port 30233
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+tte	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofileb9Oiln\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:30376/devtools/browser/a5bba84d-0c85-4767-8538-76f221a1d2a2
+1646901604639	Marionette	INFO	Listening on port 30382
+1646901605054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery17202701588476614376_1646901610088&_=1646901610608, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery17202701588476614376_1646901610089&_=1646901610609, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+1646901686147	Marionette	INFO	Stopped listening on port 30382
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+tte	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhuangzilian\\AppData\\Local\\Temp\\rust_mozprofileGOp8TZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:30521/devtools/browser/f4c595ba-88a5-4ce3-b51a-ccc0978ce6b3
+1646901626052	Marionette	INFO	Listening on port 30532
+1646901626517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://q.qunarzz.com/homenode/prd/scripts/home@c46b51b2c2bbf084eac9.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.qunar.com"
+JavaScript error: https://piao.qunar.com/api/ticket/salePrice.jsonp?callback=jQuery17208595545395288763_1646901628620&_=1646901628992, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://piao.qunar.com/api/ticket/saleOnedayTour.jsonp?callback=jQuery17208595545395288763_1646901628621&_=1646901628993, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+JavaScript warning: https://q.qunarzz.com/train_pc_search/prd/scripts/common@4c5246663e4962243b754700fac58090.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://train.qunar.com"
+1646901684560	Marionette	INFO	Stopped listening on port 30532
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
