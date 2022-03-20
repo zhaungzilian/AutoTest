@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Pytest.Test_page1_shoye",
+    "children" : [ {
+      "name" : "test_start1",
+      "uid" : "fa155ebeff8a5a01",
+      "parentUid" : "d104d8af52966b07ec4e54fcf991e24e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647779629041,
+        "stop" : 1647779629041,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_start2",
+      "uid" : "cb2e4dd0ff474910",
+      "parentUid" : "d104d8af52966b07ec4e54fcf991e24e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647779629056,
+        "stop" : 1647779629056,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_start3[fixture0]",
+      "uid" : "d4b8cf1a27c086c9",
+      "parentUid" : "d104d8af52966b07ec4e54fcf991e24e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1647779629058,
+        "stop" : 1647779629058,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "<NotSetType.token: 0>" ]
+    } ],
+    "uid" : "Pytest.Test_page1_shoye"
+  } ]
+}

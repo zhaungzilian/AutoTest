@@ -1,0 +1,60 @@
+{
+  "8ee2fd5c34191ec51136546713ef5e2a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d4b8cf1a27c086c9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: got empty parameter set ['fixture'], function test_start3 at D:\\AutoTest\\Pytest\\Test_page1_shoye.py:19",
+      "time" : {
+        "start" : 1647779629058,
+        "stop" : 1647779629058,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d3ebda68a5e4b75694f96811654bcbcb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb2e4dd0ff474910",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647779629056,
+        "stop" : 1647779629056,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4392f6ee89b352e57ab67655e0bd23b3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa155ebeff8a5a01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647779629041,
+        "stop" : 1647779629041,
+        "duration" : 0
+      }
+    } ]
+  }
+}

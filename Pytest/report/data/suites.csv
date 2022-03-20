@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Mar 20 20:33:49 GMT+08:00 2022","Sun Mar 20 20:33:49 GMT+08:00 2022","0","Pytest","Test_page1_shoye","TestPage1","","","test_start1",""
+"skipped","Sun Mar 20 20:33:49 GMT+08:00 2022","Sun Mar 20 20:33:49 GMT+08:00 2022","0","Pytest","Test_page1_shoye","TestPage1","","","test_start3[fixture0]",""
+"passed","Sun Mar 20 20:33:49 GMT+08:00 2022","Sun Mar 20 20:33:49 GMT+08:00 2022","0","Pytest","Test_page1_shoye","TestPage1","","","test_start2",""

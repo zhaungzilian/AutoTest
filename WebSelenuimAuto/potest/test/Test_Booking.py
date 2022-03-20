@@ -44,3 +44,4 @@ if __name__ == '__main__':
 # -s: 显示程序中的print/logging输出
 # --resultlog=./log.txt 生成log
 # --junitxml=./log.xml 生成xml报告
+

@@ -1,0 +1,100 @@
+{
+  "uid" : "d4b8cf1a27c086c9",
+  "name" : "test_start3[fixture0]",
+  "fullName" : "Pytest.Test_page1_shoye.TestPage1#test_start3",
+  "historyId" : "8ee2fd5c34191ec51136546713ef5e2a",
+  "time" : {
+    "start" : 1647779629058,
+    "stop" : 1647779629058,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: got empty parameter set ['fixture'], function test_start3 at D:\\AutoTest\\Pytest\\Test_page1_shoye.py:19",
+  "statusTrace" : "('D:\\\\AutoTest\\\\Pytest\\\\Test_page1_shoye.py', 20, \"Skipped: got empty parameter set ['fixture'], function test_start3 at D:\\\\AutoTest\\\\Pytest\\\\Test_page1_shoye.py:19\")",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip(reason='got empty parameter set ['fixture'], function test_start3 at D:\\AutoTest\\Pytest\\Test_page1_shoye.py:19')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Pytest"
+  }, {
+    "name" : "suite",
+    "value" : "Test_page1_shoye"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPage1"
+  }, {
+    "name" : "host",
+    "value" : "MSI"
+  }, {
+    "name" : "thread",
+    "value" : "23880-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Pytest.Test_page1_shoye"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "fixture",
+    "value" : "<NotSetType.token: 0>"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7695cdf1ff738d0b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: got empty parameter set ['fixture'], function test_start3 at D:\\AutoTest\\Pytest\\Test_page1_shoye.py:19",
+      "time" : {
+        "start" : 1647696024764,
+        "stop" : 1647696024764,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "38bed58768572916",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: got empty parameter set ['fixture'], function test_start3 at D:\\AutoTest\\Pytest\\Test_page1_shoye.py:19",
+      "time" : {
+        "start" : 1647695982882,
+        "stop" : 1647695982882,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "531db76f95a9f893",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: got empty parameter set ['fixture'], function test_start3 at D:\\AutoTest\\Pytest\\Test_page1_shoye.py:19",
+      "time" : {
+        "start" : 1647695876416,
+        "stop" : 1647695876416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ecc04c3952e3648d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: got empty parameter set ['fixture'], function test_start3 at D:\\AutoTest\\Pytest\\Test_page1_shoye.py:19",
+      "time" : {
+        "start" : 1647695876409,
+        "stop" : 1647695876409,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip(reason='got empty parameter set ['fixture'], function test_start3 at D:\\AutoTest\\Pytest\\Test_page1_shoye.py:19')" ]
+  },
+  "source" : "d4b8cf1a27c086c9.json",
+  "parameterValues" : [ "<NotSetType.token: 0>" ]
+}
